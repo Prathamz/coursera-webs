@@ -1,0 +1,42 @@
+
+body{
+    color: whitesmoke;
+    font-size: 16px;
+    background-color: rgb(253, 188, 228);
+}
+.header-nav{
+    background-color: rgb(189, 51, 177);
+}
+h1{
+    color: rgba(30, 7, 85, 0.726);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px rgb(88, 5, 57);
+}
+.dropdesign{
+    background-color: #EEEEEE;
+    color:rgb(253, 188, 228) ;
+}
+h2{
+    color: rgba(30, 7, 85, 0.726);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px rgb(88, 5, 57);
+}
+#content{
+background-color: #EEEEEE;
+border-radius: 10px;
+color:rgb(104, 7, 96) ;
+padding: 15px 15px 15px 15px;
+margin-top: 25px;
+margin-bottom: 30px;
+}
+
+
+
+  
+  
